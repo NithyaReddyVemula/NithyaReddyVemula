@@ -112,9 +112,9 @@ class NithyaReddyVemula:
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=NithyaReddyVemula&show_icons=true&hide_border=true&bg_color=0D0014&title_color=BE185D&text_color=F9A8D4&icon_color=BE185D&count_private=true&include_all_commits=true&rank_icon=github"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=NithyaReddyVemula&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github"/>
 &nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithyaReddyVemula&layout=compact&hide_border=true&bg_color=0D0014&title_color=BE185D&text_color=F9A8D4&icon_color=BE185D&langs_count=8"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithyaReddyVemula&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
 
 <br/>
 
@@ -145,16 +145,6 @@ class NithyaReddyVemula:
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://nithya-reddy-portfolio.vercel.app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NithyaReddyVemula&repo=nithya-reddy-portfolio&hide_border=true&bg_color=0D0014&title_color=BE185D&text_color=F9A8D4&icon_color=BE185D"/>
-</a>
-
-</div>
-
-<br/>
 
 | 🏅 Project | 📋 Description | ⚙️ Stack |
 |:-----------|:---------------|:---------|
