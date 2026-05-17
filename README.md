@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=BE185D&center=true&vCenter=true&width=820&height=56&lines=Turning+raw+data+into+revenue-driving+decisions+💰;3%2B+years+%7C+Healthcare+%26+Banking+Analytics+🏥🏦;Analytics+Engineer+building+scalable+data+pipelines+⚙️;Always+open+to+new+opportunities+in+Dallas+%26+Remote+🌟)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=BE185D&center=true&vCenter=true&width=820&height=56&lines=Turning+raw+data+into+revenue-driving+decisions+💰;3%2B+years+%7C+Healthcare+%26+Banking+Analytics+🏥🏦;Analytics+Engineer+building+scalable+data+pipelines+⚙️;Always+open+to+new+opportunities+in+across+Full+Time+%26+Consulting+&+contract+roles+🌟)](https://git.io/typing-svg)
 
 
 <br/>
