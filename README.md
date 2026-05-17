@@ -34,7 +34,7 @@ class NithyaReddyVemula:
 
     domains = [
         "Healthcare, Workforce Analytics",
-        "Consumer Banking Analytics",
+        "Consumer Banking Analytics, Consulting",
     ]
 
     current_focus = [
