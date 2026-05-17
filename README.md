@@ -191,7 +191,7 @@ class NithyaReddyVemula:
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-BE185D?style=for-the-badge&logo=vercel&logoColor=white)](https://nithya-reddy-portfolio.vercel.app)
 &nbsp;
-[![Email](https://img.shields.io/badge/Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithyareddy.vemula@gmail.com)
+[![Email](https://img.shields.io/badge/Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithyareddyvemula72@gmail.com)
 
 <br/>
 
