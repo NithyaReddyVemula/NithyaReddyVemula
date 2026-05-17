@@ -183,7 +183,7 @@ class NithyaReddyVemula:
 <br/>
 
 **🌟 Open to Data Analyst, Analytics Engineer & Data Science roles**  
-**📍 Dallas, TX — also available Remote & Hybrid**
+
 
 <br/>
 
