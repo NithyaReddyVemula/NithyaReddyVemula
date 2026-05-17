@@ -182,7 +182,7 @@ class NithyaReddyVemula:
 
 <br/>
 
-**🌟 Open to Data Analyst, Analytics Engineer & Data Science roles**  
+**🌟 Open to Data Analyst, Analytics Engineer, Business Analytics & Data Science roles**  
 
 
 <br/>
