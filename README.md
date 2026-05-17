@@ -33,7 +33,7 @@ class NithyaReddyVemula:
     location   = "Dallas, TX 🏙️"
 
     domains = [
-        "Healthcare Workforce Analytics",
+        "Healthcare, Workforce Analytics",
         "Consumer Banking Analytics",
     ]
 
